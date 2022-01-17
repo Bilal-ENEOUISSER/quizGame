@@ -1,0 +1,13 @@
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\bin\Debug\QuizGames.exe.config
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\bin\Debug\QuizGames.exe
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\bin\Debug\QuizGames.pdb
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\bin\Debug\Guna.UI2.dll
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.AssemblyReference.cache
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.LogReg.resources
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.ProfilPlayer.resources
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.Properties.Resources.resources
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.GenerateResource.cache
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.csproj.CopyComplete
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.exe
+C:\Users\hi\Desktop\bilal html miage\QuizGames\QuizGames\obj\Debug\QuizGames.pdb
